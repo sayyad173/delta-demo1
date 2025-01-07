@@ -1,2 +1,2 @@
 # delta-demo1
-This is Delta Demo Code
+This is Delta Demo Code for understandig
